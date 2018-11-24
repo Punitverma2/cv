@@ -91,6 +91,9 @@ a{
 }
 .p1{
   font-size: 1rem;
+    width:35%;
+  margin:auto;
+  margin-bottom: 15px;
 }
 .btn{font-family:monospace;
   font-weight: normal;font-size:2rem;
