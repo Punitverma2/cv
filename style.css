@@ -73,8 +73,9 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-.bottom-container{height:100px;
+.bottom-container{height:200px;
   background-color: #80e5ff;
+  padding:90px;
 }
 a{
   color: black;
