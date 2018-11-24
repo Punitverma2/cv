@@ -98,8 +98,8 @@ a{
   margin-bottom: 15px;
 }
 .btn{font-family:monospace;
-  font-weight: normal;font-size:2rem;
-  width:auto;margin:auto;
+  font-weight: normal;font-size:1.5rem;
+  width:20%;margin:auto;
   display:block;
   border:1px solid #80e5ff;
   border-radius: 7%;
