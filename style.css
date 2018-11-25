@@ -28,6 +28,11 @@ margin-bottom: 14px;
 }
 .middle-container{
   height: 450px;
+}ul{margin-top:50px;
+  line-height: 2;
+  font-style: normal;
+  font-family: monospace;
+  font-size: 1.3rem;
 }
 .skills{padding-top: 8px;
   height: 600px;
