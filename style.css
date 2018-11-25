@@ -27,7 +27,8 @@ background-repeat: no-repeat;
 background-size: 100%;
 margin-bottom: 14px;
 }
-.skills{background-image:url("images.jpeg");}
+.skills{background-image:url("images.jpeg");background-repeat: no-repeat;
+background-size: 100%;}
 
 body{
   margin: 0 0 0 0;
