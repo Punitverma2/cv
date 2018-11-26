@@ -100,7 +100,7 @@ a{
   margin-bottom: 15px;
 }
 .btn {
-
+margin-top:8px;
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #80e6ff), color-stop(1, #476e9e));
 	background:-moz-linear-gradient(top, #80e6ff 5%, #476e9e 100%);
 	background:-webkit-linear-gradient(top, #80e6ff 5%, #476e9e 100%);
@@ -139,7 +139,7 @@ a{
 	top:1px;
 }
 
-.footer-link{
+.footer-link{margin-top:8px;
   text-decoration: none;
   font-family: serif;
   font-size: 1rem;
