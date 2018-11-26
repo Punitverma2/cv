@@ -23,7 +23,7 @@ text-align: center;
 background-image: url("bo.jpg");
 
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: 100% 100%;
 margin-bottom: 14px;
 }
 .middle-container{
