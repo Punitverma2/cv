@@ -82,7 +82,7 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-.bottom-container{height:100px;padding:10px;background-image: linear-gradient(  #d0dee1, #2a455a);
+.bottom-container{height:100px;padding:10px;background-image: linear-gradient(  #a2bdc3, #2a455a);
   padding-top:15px;
   color:white;
   margin-bottom: 0;
@@ -173,4 +173,5 @@ text-align: center;
   
 }
 .contact-me{padding-top:15px;
-	background-color:#d0dee1;}
+	
+background-image: linear-gradient( #d0dee1, #a2bdc3);}
