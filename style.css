@@ -98,9 +98,10 @@ th, td {
 }
 a{
   color: white;
-  font-style: normal;
-  font-weight: bold;
+ font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
   margin-right: 20px;
+	font-size:21px;
+	font-weight: 400;
 	text-decoration:none;
 }
 .p1{
