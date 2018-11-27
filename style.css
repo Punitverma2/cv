@@ -12,9 +12,9 @@ margin-bottom:0;}
   border:2px;
   border-style: solid;
   border-color: #40514E;
-}nav{padding-top:5px; background-image: linear-gradient( #d0dee1, #43758d);
+}nav{padding-top:12px; background-image: linear-gradient( #d0dee1, #43758d);
 width:100%;
-height:25px;
+height:30px;
 font-family:monospace;
 text-decoration:none;
 font-size:1.5rem;
