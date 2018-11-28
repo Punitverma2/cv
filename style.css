@@ -91,7 +91,7 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-.bottom-container{height:100px;padding:10px;background-image: linear-gradient(  #ffffff, #9d9d95);
+.bottom-container{height:100px;padding:10px;background-image: linear-gradient(  #e5e5e7, #62626a);
   padding-top:15px;
   color:white;
   margin-bottom: 0;
@@ -185,4 +185,4 @@ text-align: center;
 }
 .contact-me{padding-top:15px;
 	
-background-image: linear-gradient( #d0dee1, #a2bdc3);}
+background-image: linear-gradient( #ffffff, #e5e5e7);}
