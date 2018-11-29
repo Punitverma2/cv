@@ -35,7 +35,7 @@ margin-bottom: 0;
 	margin-top:0;
 }
 .skills{padding-top: 8px;
-  height: 600px;text-align: center;
+  height: 800px;text-align:center;
   width:100%;
   background-color:#e8cdce;
   background-repeat: no-repeat;
@@ -145,16 +145,16 @@ margin-top:8px;
 }
 .box{
 	
-	
-	padding:5px;
+	    margin-left: 20px;
+	padding:2px;
   border: 3px solid white;
   border-radius: 20px;
 text-align: center;
-  height: 295px;
+  height: 270px;
   width:30%;
   
 	
-margin-top:25px;
+margin-top:90px;
     background: rgba(230, 247, 255, 0.7) /* Green background with 30% opacity */
 
 }
@@ -167,4 +167,8 @@ margin-top:25px;
 .contact-me{padding-top:15px;text-align: center;
 	
 background-image: linear-gradient( #ffffff, #e5e5e7);}
-.qwe{margin-left:5px; position: absolute;}
+.qwe{    left: 85px;
+    position: absolute;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: solid 1px transparent;}
