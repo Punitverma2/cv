@@ -58,11 +58,70 @@
     <div class="skills">
       <h2 class="iop">My Skills.</h2><div class="skill-row">
         <img class="giphy" src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" alt="" width="100px"></div><div class="box">
+  <div class="slideshow-container">
 
-<p class="ul">
-<img src="po.png" width="100%" height="230px" >
+          <div class="mySlides fade">
+            <div class="numbertext">1 / 5</div>
+            <img src="0.png" width="100%" height="240px">
+            <div class="text"></div>
+          </div>
 
-</p>
+          <div class="mySlides fade">
+            <div class="numbertext">2 / 5</div>
+            <img src="1.png" width="100%" height="240px">
+            <div class="text"></div>
+          </div>
+
+          <div class="mySlides fade">
+            <div class="numbertext">3 / 5</div>
+            <img src="2.png" width="100%" height="240px">
+            <div class="text"></div>
+          </div>
+
+                    <div class="mySlides fade">
+                      <div class="numbertext">4 / 5</div>
+                      <img src="4.jpg" width="100%" height="240px">
+                      <div class="text"></div>
+                    </div>
+
+                              <div class="mySlides fade">
+                                <div class="numbertext">5 / 5</div>
+                                <img src="3.jpg" width="100%" height="240px">
+                                <div class="text"></div>
+                              </div>
+
+          </div>
+          <br>
+
+          <div style="text-align:center">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+
+          <script>
+          var slideIndex = 0;
+          showSlides();
+
+          function showSlides() {
+              var i;
+              var slides = document.getElementsByClassName("mySlides");
+              var dots = document.getElementsByClassName("dot");
+              for (i = 0; i < slides.length; i++) {
+                 slides[i].style.display = "none";
+              }
+              slideIndex++;
+              if (slideIndex > slides.length) {slideIndex = 1}
+              for (i = 0; i < dots.length; i++) {
+                  dots[i].className = dots[i].className.replace(" active", "");
+              }
+              slides[slideIndex-1].style.display = "block";
+              dots[slideIndex-1].className += " active";
+              setTimeout(showSlides, 2000); // Change image every 2 seconds
+          }
+          </script>
 
         </div><img class="qwe" src="PSX_20181129_144629.jpg" width="30%"></div>
        
