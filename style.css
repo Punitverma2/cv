@@ -148,8 +148,9 @@ margin-top:8px;
   border-radius: 20px;
 text-align: center;
   height: 295px;
-  width:50%;
+  width:30%;
   margin:auto;
+	margin-top:50px;
 
     background: rgba(230, 247, 255, 0.7) /* Green background with 30% opacity */
 
