@@ -25,7 +25,7 @@ text-align:right;}
 margin: 0;
 margin-top: 0;
   width:100%;
-  height:400px;
+  height:550px;
 padding-top: 20px;
 padding-bottom: 0;
 text-align: center;
@@ -38,7 +38,7 @@ margin-bottom: 0;
 .middle-container{
   height: 450px;background-image: linear-gradient( #e9e9e7, #ffffff);
 }.ul{
-	
+	margin-top:0;
 }
 .skills{padding-top: 8px;
   height: 600px;
@@ -72,20 +72,7 @@ p{
 
 
 
-.code{width:15%;
 
-margin-right: 80px;
-  height:150px;
-  float:left;
-  margin-top: 10px;
-}
-.skill-row1{margin-left: 230px;
-  margin-top: 40px;
-  width:70%;
-}
-th, td {
-  border-bottom: 1px solid #ddd;
-}
 
 .bottom-container{height:100px;padding:10px;background-image: linear-gradient(  #e5e5e7, #62626a);
   padding-top:15px;
